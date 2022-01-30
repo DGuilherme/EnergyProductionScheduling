@@ -6,7 +6,7 @@ To access notion problem click **[here](https://www.notion.so/Production-Plannin
 
 + [SA Implementation](https://github.com/Morigawa/jobshop_scheduling)
 + [GA](https://github.com/Simonig/JSSP-GA)
-  +[Theory](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
+    +[Theory](https://github.com/PO-LAB/Intelligent-Manufacturing-Systems/blob/master/GA_Application_Job_Shop_Problem/JSP.md)
 + [ACO](https://github.com/luizhemelo/CN_TrabalhoPratico02)
 + [PSO]()
 
